@@ -1,7 +1,7 @@
-package com.hladchuk.lab_2.dao.impl;
+package com.hladchuk.lab_2.dao;
 
-import com.hladchuk.lab_2.dao.AbstractDao;
+
 import com.hladchuk.lab_2.model.PassengerPlane;
 
-public interface PassangerPlaneDao extends AbstractDao<PassengerPlane> {
+public interface PassengerPlaneDao extends AbstractDao<PassengerPlane> {
 }

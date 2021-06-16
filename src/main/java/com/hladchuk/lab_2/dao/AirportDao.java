@@ -1,4 +1,6 @@
 package com.hladchuk.lab_2.dao;
 
-public class yopt {
+import com.hladchuk.lab_2.model.Airport;
+
+public interface AirportDao extends AbstractDao<Airport>{
 }

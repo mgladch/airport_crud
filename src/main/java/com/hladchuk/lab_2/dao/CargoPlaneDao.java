@@ -1,4 +1,6 @@
 package com.hladchuk.lab_2.dao;
 
-public interface CargoPlaineDao extends AbstractDao <Car{
+import com.hladchuk.lab_2.model.CargoPlane;
+
+public interface CargoPlaneDao extends AbstractDao<CargoPlane> {
 }
